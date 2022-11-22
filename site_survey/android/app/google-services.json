@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660588715372",
+    "project_id": "site-survey-1e217",
+    "storage_bucket": "site-survey-1e217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660588715372:android:5da90fc7ed2f3f40192749",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore.site_survey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660588715372-fn0p6307iqkumtnvhv4nogoln62ojcl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeyeK_1l2OWPaCay1CL7MitKoIfmqauq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660588715372-fn0p6307iqkumtnvhv4nogoln62ojcl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
